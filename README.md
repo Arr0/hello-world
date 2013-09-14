@@ -1,4 +1,4 @@
 Hello World
 ===========
 
-What every noob must write.
+Hello C++.
